@@ -1,0 +1,10 @@
+/target/
+/bin/
+/.classpath
+/.project
+/.settings/
+/build/
+/.gradle
+*.bak
+*.log
+*.log.*
